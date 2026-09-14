@@ -13,7 +13,7 @@
   <a href="mailto:108.pixell@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/sachin07_a" target="_blank">
+  <a href="(https://www.instagram.com/_sachin.a?stkn=MWc4MWp4OTg2YWo5Yg==)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
