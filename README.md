@@ -7,7 +7,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="www.linkedin.com/in/sachin-a-23a585429" target="_blank">
+  <a href="https://www.linkedin.com/in/sachin-a-23a585429?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:108.pixell@gmail.com">
