@@ -2,7 +2,7 @@
 
 # Hi, I'm Sachin 👋
 
-🎓 **Computer Science & Engineering (AI & Data Science)** student at **Dayananda Sagar University (DSU), Bangalore**  
+🎓 **Computer Science & Engineering (AI & Data Science)** student at **Dayananda Sagar University (DSU), Bangalore**
 📍 Bangalore, India
 
 <!-- Social Links -->
