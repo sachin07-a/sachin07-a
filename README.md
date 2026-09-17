@@ -50,6 +50,10 @@
   </a>
 </p>
 
+<img
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-night-green.svg"
+  alt="3D GitHub contribution graph"
+/>
 ## 📊 My GitHub Contributions
 
 <p align="center">
