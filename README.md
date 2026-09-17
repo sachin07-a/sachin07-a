@@ -49,3 +49,6 @@
     <img src="https://streak-stats.demolab.com/?user=sachin07-a&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sachin07-a&theme=tokyonight&hide_border=true)
+
