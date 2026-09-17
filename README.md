@@ -51,6 +51,27 @@
 </p>
 
 
+name: GitHub Profile 3D Contributions
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+steps:
+      - uses: actions/checkout@v4
+
+- uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+
+
 
 
 
