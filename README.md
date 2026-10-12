@@ -18,10 +18,8 @@
   </a>
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin07-a&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
+
+
 
 </div>
 
