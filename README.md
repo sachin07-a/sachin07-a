@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sachin 👋
+# Hi, I'm Sachin👋
 
 🎓 **Computer Science & Engineering (AI & Data Science)** student at **DAYANAND SAGAR UNIVERSITY (DSU), Bangalore**
 📍 Bangalore, India
