@@ -5,7 +5,7 @@
 🎓 **Computer Science & Engineering (AI & Data-Science)** student at **DAYANAND SAGAR UNIVERSITY (DSU), Bangalore**
 📍 Bangalore, India
 
-<!- Social Links ->
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-a-23a585429?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
