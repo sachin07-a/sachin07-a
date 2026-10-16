@@ -40,7 +40,7 @@
 
 ---
 
-## 🐙 GitHub
+## 🐙GitHub
 
 <p align="center">
   <a href="https://github.com/sachin07-a">
