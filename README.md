@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=5bcdec&line=5bcdec&point=aaaaaa&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin07-a&bg_color=0d1117&color=5bcdec&line=5bcdec&point=aaaaaa&area=true&hide_border=true" />
 </p>
 
 
