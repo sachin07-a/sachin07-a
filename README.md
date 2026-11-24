@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B3E&height=200&section=header&text=Hi,%20I'm%20Sachin%20👋&fontSize=40&fontColor=5BCDEC&animation=fadeIn&fontAlignY=38&desc=CSE%20(AI-DS)%20%7C%20DSU%20Bangalore&descAlignY=55&descColor=ffffff" width="100%" />
+# Hi, I'm Sachin👋
+
+🎓 **COMPUTER SCIENCE ENGINEERING (AI-DS)** Student @**DAYANAND SAGAR UNIVERSITY (DSU) Bangalore**
+📍 Bangalore, India
 
 <!-- Social Links -->
 <p align="center">
@@ -11,11 +14,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-<!-- These get stripped by GitHub -->
-<body style="background-color: blue;">
-<div style="background: #0D1B3E;">
-
-
 
 </div>
 
@@ -26,7 +24,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -36,27 +34,16 @@
 
 ---
 
-## 🐙GitHub
+## 🐙 GitHub
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sachin07-A&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=FF6B6B&currStreakLabel=BF5FFF" />
+  <img src="https://streak-stats.demolab.com?user=sachin07-A&theme=tokyonight&hide_border=true&background=0D1B3E&ring=39D353&fire=39D353&currStreakLabel=39D353" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin07-a&bg_color=0d1117&color=5bcdec&line=5bcdec&point=aaaaaa&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin07-a&bg_color=0d1b3e&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" />
 </p>
 
-## CONTRIBUTIONS
 <p align="center">
-  <img src="https://ghchart.rshah.org/5BCDEC/sachin07-A" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin07-A&theme=github_dark" width="100%" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
