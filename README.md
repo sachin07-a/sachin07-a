@@ -2,11 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B3E&height=200&section=header&text=Hi,%20I'm%20Sachin%20👋&fontSize=40&fontColor=5BCDEC&animation=fadeIn&fontAlignY=38&desc=CSE%20(AI-DS)%20%7C%20DSU%20Bangalore&descAlignY=55&descColor=ffffff" width="100%" />
 
-# Hi, I'm Sachin👋
-
-🎓 **COMPUTER SCIENCE ENGINEERING (AI-DS)** Student @**DAYANAND SAGAR UNIVERSITY (DSU) Bangalore**
-📍 Bangalore, India
-
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-a-23a585429?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
