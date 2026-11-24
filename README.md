@@ -11,7 +11,9 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
+<!-- These get stripped by GitHub -->
+<body style="background-color: blue;">
+<div style="background: #0D1B3E;">
 
 
 
