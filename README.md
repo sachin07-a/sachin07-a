@@ -43,31 +43,38 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin07-a&bg_color=0d1b3e&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<!-- GitHub Stats + Top Languages -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sachin07-A&show_icons=true&bg_color=0D1B3E&title_color=39D353&icon_color=39D353&text_color=ffffff&border_color=39D353&hide_border=false&rank_icon=github" width="400" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin07-A&layout=compact&bg_color=0D1B3E&title_color=39D353&text_color=ffffff&border_color=39D353&hide_border=false" width="400" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachin07-A&theme=github_dark" width="400" height="200" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachin07-A&theme=github_dark&utcOffset=5.5" width="400" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachin07-A&theme=github_dark" width="400" height="200" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachin07-A&theme=github_dark" width="400" height="200" />
-    </td>
-  </tr>
-</table>
+<!-- Heatmap -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin07-A&theme=github_dark" width="100%" />
+</p>
 
+<br>
+
+<!-- GitHub Stats + Top Languages side by side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin07-A&show_icons=true&bg_color=0D1B3E&title_color=39D353&icon_color=39D353&text_color=ffffff&border_color=39D353&hide_border=false&rank_icon=github" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin07-A&layout=compact&bg_color=0D1B3E&title_color=39D353&text_color=ffffff&border_color=39D353&hide_border=false" height="180" />
+</p>
+
+<br>
+
+<br>
+
+<!-- Repo Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachin07-A&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachin07-A&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<br>
+
+<!-- Repos per language + Most commit language -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachin07-A&theme=github_dark" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachin07-A&theme=github_dark" />
+</p>
+
+<br>
