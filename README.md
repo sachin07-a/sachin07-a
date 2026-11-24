@@ -59,11 +59,6 @@
 
 <br>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachin07-A&theme=darkhub&no-frame=true&margin-w=10&column=6&title_color=39D353" />
-</p>
-
 <br>
 
 <!-- Repo Summary Cards -->
