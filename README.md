@@ -37,6 +37,7 @@
 
 ---
 
+## 🐙GitHub
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sachin07-A&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=FF6B6B&currStreakLabel=BF5FFF" />
 </p>
@@ -45,13 +46,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin07-a&bg_color=0d1117&color=5bcdec&line=5bcdec&point=aaaaaa&area=true&hide_border=true" />
 </p>
 
-## 🐙GitHub
 
-<p align="center">
-  <a href="https://github.com/sachin07-a">
-    <img src="https://streak-stats.demolab.com/?user=sachin07-a&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+
 
 
 
