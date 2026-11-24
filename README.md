@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Prompting-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Prompting" />
 </p><br>
 
----
 
 ## 🐙 GitHub
 
