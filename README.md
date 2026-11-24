@@ -79,7 +79,3 @@
 
 <br>
 
-<!-- Snake Contribution Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sachin07-A/sachin07-A/output/github-contribution-grid-snake-dark.svg" />
-</p>
