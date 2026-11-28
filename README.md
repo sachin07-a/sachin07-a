@@ -43,23 +43,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin07-a&bg_color=0d1b3e&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<!-- Heatmap -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin07-A&theme=github_dark" width="100%" />
-</p>
 
-<br>
-
-<!-- GitHub Stats + Top Languages side by side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin07-A&show_icons=true&bg_color=0D1B3E&title_color=39D353&icon_color=39D353&text_color=ffffff&border_color=39D353&hide_border=false&rank_icon=github" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin07-A&layout=compact&bg_color=0D1B3E&title_color=39D353&text_color=ffffff&border_color=39D353&hide_border=false" height="180" />
-</p>
-
-<br>
-
-<br>
 
 <!-- Repo Summary Cards -->
 <p align="center">
