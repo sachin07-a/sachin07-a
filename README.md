@@ -45,20 +45,3 @@
 
 
 
-<!-- Repo Summary Cards -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachin07-A&theme=github_dark" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachin07-A&theme=github_dark&utcOffset=5.5" />
-</p>
-
-<br>
-
-<!-- Repos per language + Most commit language -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachin07-A&theme=github_dark" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachin07-A&theme=github_dark" />
-</p>
-
-<br>
