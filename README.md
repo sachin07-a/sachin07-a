@@ -38,10 +38,5 @@
   <img src="https://streak-stats.demolab.com?user=sachin07-A&theme=tokyonight&hide_border=true&background=0D1B3E&ring=39D353&fire=39D353&currStreakLabel=39D353" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin07-a&bg_color=0d1b3e&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" />
-</p>
-
 
 
